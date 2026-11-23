@@ -4,3 +4,4 @@
  I have learned command shortcuts
 I have learned some quick shortcuts
 I have learned what to do and what not to to with a repo
+I have also learned the three stages
